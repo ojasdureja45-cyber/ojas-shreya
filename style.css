@@ -1,0 +1,41 @@
+body {
+    background-color: plum;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    color: midnightblue
+    font-size: 48px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+.heart {
+    font-size: 80px;
+    margin-top: 20px;
+}
+
+
+}
+p {
+    color: maroon;
+    font-size: 20px;
+    margin-top: 10px;
+    text-align: center;
+    max-width: 600px;
+}
+li {
+      color: purple;
+    font-size: 15px;
+    margin-top: 10px;
+    text-align: center;
+    max-width: 600px;
+}
+}
+
+}
+
+}
